@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080845138724",
+    "firebase_url": "https://recipe-d71ef.firebaseio.com",
+    "project_id": "recipe-d71ef",
+    "storage_bucket": "recipe-d71ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080845138724:android:8b952d10cfec9864f351b1",
+        "android_client_info": {
+          "package_name": "com.example.restraunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080845138724-unndknp5es8qcin2a5rnlq3e82ac2d9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restraunt",
+            "certificate_hash": "244a8ad6f881d5e840c487d6d607e7c4fbac0ddc"
+          }
+        },
+        {
+          "client_id": "1080845138724-sqqulq0vmj4ngsn9p36v7hmnj0u4dgce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58pzoVlUcBr5VAYAts8MZxGy9G5hk8bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080845138724-sqqulq0vmj4ngsn9p36v7hmnj0u4dgce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

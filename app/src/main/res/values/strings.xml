@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restraunt</string>
+    <string name="title_activity_starter">Starter</string>
+    <string name="tab_text_1">VEG</string>
+    <string name="tab_text_2">NON VEG</string>
+    <string name="res">Foddie@Land</string>
+    <string name="title_activity_main_course">MainCourse</string>
+</resources>
